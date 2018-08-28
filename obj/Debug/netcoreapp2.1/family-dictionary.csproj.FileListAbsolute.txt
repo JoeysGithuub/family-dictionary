@@ -1,0 +1,11 @@
+C:\Users\smith\workspace\csharp\exercise\family-dictionary\bin\Debug\netcoreapp2.1\family-dictionary.deps.json
+C:\Users\smith\workspace\csharp\exercise\family-dictionary\bin\Debug\netcoreapp2.1\family-dictionary.runtimeconfig.json
+C:\Users\smith\workspace\csharp\exercise\family-dictionary\bin\Debug\netcoreapp2.1\family-dictionary.runtimeconfig.dev.json
+C:\Users\smith\workspace\csharp\exercise\family-dictionary\bin\Debug\netcoreapp2.1\family-dictionary.dll
+C:\Users\smith\workspace\csharp\exercise\family-dictionary\bin\Debug\netcoreapp2.1\family-dictionary.pdb
+C:\Users\smith\workspace\csharp\exercise\family-dictionary\obj\Debug\netcoreapp2.1\family-dictionary.csprojAssemblyReference.cache
+C:\Users\smith\workspace\csharp\exercise\family-dictionary\obj\Debug\netcoreapp2.1\family-dictionary.csproj.CoreCompileInputs.cache
+C:\Users\smith\workspace\csharp\exercise\family-dictionary\obj\Debug\netcoreapp2.1\family-dictionary.AssemblyInfoInputs.cache
+C:\Users\smith\workspace\csharp\exercise\family-dictionary\obj\Debug\netcoreapp2.1\family-dictionary.AssemblyInfo.cs
+C:\Users\smith\workspace\csharp\exercise\family-dictionary\obj\Debug\netcoreapp2.1\family-dictionary.dll
+C:\Users\smith\workspace\csharp\exercise\family-dictionary\obj\Debug\netcoreapp2.1\family-dictionary.pdb
